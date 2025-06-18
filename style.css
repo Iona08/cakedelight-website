@@ -80,13 +80,15 @@ a{
 
 }
 .hero-section{
-	min-height: 100vh;
+	height: 100vh;
 	/*background: #fff8e1;*/
+	margin: 0;
+	padding: 0;
 	color: #fff;
 	background-image: url(image/main7.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-attachment: fixed;
+	/*background-attachment: fixed;*/
 	background-size: cover;
 }
 .hero-section .section-content{
